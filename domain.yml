@@ -10,6 +10,11 @@ intents:
 - mood_unhappy
 - bot_challenge
 - banana
+entities:
+- fruit
+slots:
+  fruit:
+    type: unfeaturized
 responses:
   utter_greet:
   - text: Hey! How are you? 👋
