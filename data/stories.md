@@ -29,3 +29,11 @@
 ## bot challenge
 * bot_challenge
   - utter_iamabot
+
+## banana
+* greet
+    - utter_greet
+* mood_great
+    - utter_happy
+* banana
+	- utter_banana

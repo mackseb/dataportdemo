@@ -36,6 +36,7 @@
 - I am feeling very good
 - I am great
 - I'm good
+- gra
 
 ## intent:mood_unhappy
 - sad
@@ -54,3 +55,13 @@
 - are you a human?
 - am I talking to a bot?
 - am I talking to a human?
+
+## intent:banana
+- I like bananas
+- give me more bananas
+- where are my bananas
+- banana is my favorite meal
+- I love bananas
+
+## regex:email
+- \b[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}\b
