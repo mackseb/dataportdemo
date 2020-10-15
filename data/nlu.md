@@ -57,12 +57,12 @@
 - am I talking to a human?
 
 ## intent:banana
-- I like bananas
-- give me more bananas
-- where are my bananas
+- I like [bananas](fruit)
+- give me more [bananas](fruit)
+- where are my [bananas](fruit)
 - banana is my favorite meal
-- I love bananas
-- we love bananas
+- I love [bananas](fruit)
+- we love [bananas](fruit)
 
 ## regex:email
 - \b[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}\b
